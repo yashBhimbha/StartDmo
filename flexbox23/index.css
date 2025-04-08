@@ -1,0 +1,71 @@
+.ronaldo {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.norel {
+    background-color: transparent;
+    color: white;
+    padding: 1% 5%;
+    border-radius: 50px;
+    border: 2px solid rgb(255 193 71);
+}
+
+.norel:hover {
+    background-color: rgb(255 193 71);
+    color: black;
+}
+
+#forgive:hover {
+    cursor: pointer;
+    background-color: rgb(255 193 71);
+}
+
+#motorola:hover {
+    cursor: pointer;
+    color: rgb(255 193 71);
+}
+
+#btecode {
+    opacity: 0.5;
+}
+
+#denistice {
+    background-image: url(https://bootstrapmade.com/content/demo/Delicious/assets/img/events-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 600px;
+    padding: 5%;
+}
+
+#coco {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+#master:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    transition-duration: 2s;
+}
+
+#provideio {
+    background-image: url(https://bootstrapmade.com/content/demo/Delicious/assets/img/testimonials-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 500px;
+    padding: 5%;
+}
+
+#stackis {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#tecnical:hover {
+    color: rgb(255 193 71);
+    cursor: pointer;
+}
